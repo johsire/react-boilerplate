@@ -1,1 +1,1 @@
-# Simple React Web App
+# Simple React Boilerplate App
